@@ -14,6 +14,7 @@
 		1647EAB228B5D52800D19FCC /* IntraZeroTask.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1647EAB028B5D52800D19FCC /* IntraZeroTask.xcdatamodeld */; };
 		1647EAB428B5D52A00D19FCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1647EAB328B5D52A00D19FCC /* Assets.xcassets */; };
 		1647EAB728B5D52A00D19FCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1647EAB528B5D52A00D19FCC /* LaunchScreen.storyboard */; };
+		1647EABF28B5D70D00D19FCC /* PhotosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1647EABE28B5D70D00D19FCC /* PhotosTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1647EAB328B5D52A00D19FCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1647EAB628B5D52A00D19FCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1647EAB828B5D52A00D19FCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1647EABE28B5D70D00D19FCC /* PhotosTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1647EAB528B5D52A00D19FCC /* LaunchScreen.storyboard */,
 				1647EAB828B5D52A00D19FCC /* Info.plist */,
 				1647EAB028B5D52800D19FCC /* IntraZeroTask.xcdatamodeld */,
+				1647EABE28B5D70D00D19FCC /* PhotosTableViewController.swift */,
 			);
 			path = IntraZeroTask;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1647EABF28B5D70D00D19FCC /* PhotosTableViewController.swift in Sources */,
 				1647EAAC28B5D52800D19FCC /* ViewController.swift in Sources */,
 				1647EAA828B5D52800D19FCC /* AppDelegate.swift in Sources */,
 				1647EAAA28B5D52800D19FCC /* SceneDelegate.swift in Sources */,
